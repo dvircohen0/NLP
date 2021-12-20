@@ -1,12 +1,12 @@
 # My NLP Projects
 
-* Latent_Semantic_Analysis
-* Markov_bigram_model
-* analogies_pretrained_w2v
-* analogies_uisng_pretrained_glove
-* article_spinner
-* brown_bigrams
-* decoder_encoder
-* semantic_analyzer
-* simple_spam_filter
-* single_label_text_classification
+* Latent Semantic Analysis
+* Markov Bigram Model
+* Analogies with pretrained W2V
+* Analogies uisng pretrained Glove
+* Article Spinner
+* Brown corpus bigrams
+* Decoder encoder
+* Semantic analyzer
+* Spam filter
+* Text classification
